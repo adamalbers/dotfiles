@@ -21,8 +21,8 @@ set smarttab		                " Smart tab
 set shiftwidth=4	                " Tab spacing
 set tabstop=4		                " Tab spacing
 set shiftround                      " Indent to nearest tab stop
-set ai			                    " Auto indent
-set si			                    " Smart indent
+set autoindent		                    " Auto indent
+set smartindent		                    " Smart indent
 set wrap		                    " Wrap lines
 set listchars=tab:>-,nbsp:_,trail:. " Show characters for white space 
 set list                            " Enable the listchars
