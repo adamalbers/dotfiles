@@ -1,3 +1,2 @@
 set completion-ignore-case on
-set show-all-if-ambiguous off
 TAB: menu-complete
