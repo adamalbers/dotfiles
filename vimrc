@@ -26,3 +26,5 @@ set smartindent		                " Smart indent
 set wrap		                    " Wrap lines
 set listchars=tab:>-,nbsp:_,trail:. " Show characters for white space 
 set list                            " Enable the listchars
+syntax on
+filetype indent plugin on
