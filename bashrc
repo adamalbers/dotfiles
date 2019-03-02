@@ -119,3 +119,5 @@ fi
 # Install Ruby Gems to ~/gems
 export GEM_HOME="$HOME/gems"
 export PATH="$HOME/gems/bin:$PATH"
+GPG_TTY=$(tty)
+export GPG_TTY
